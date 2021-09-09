@@ -1,5 +1,5 @@
 # Twitter Bot Using Python and AWS Lambda
-- Adapted from the tutorial [How to Make a Twitter Bot With Python](https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/)
+- Adapted from the tutorial [How to Make a Twitter Bot With Python](https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/).
 
 ## Code and Resources Used
 - **Programming Language:** Python
