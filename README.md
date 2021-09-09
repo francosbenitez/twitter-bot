@@ -5,5 +5,8 @@
 - **Programming Language:** Python
 - **Others:** Twitter API, Docker, Ubuntu, AWS Lambda
 
+## Function 
+- This bot tweets random words every day at 15 o'clock (UTC).
+
 ## Live Demo
 - https://twitter.com/plan_psico
