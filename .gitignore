@@ -3,3 +3,5 @@ venv
 .DS_Store
 *.pyc
 __pycache__/
+lambda_function.zip
+layer.zip
